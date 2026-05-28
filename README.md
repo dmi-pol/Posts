@@ -1,8 +1,8 @@
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
-![Скриншот](/my-react-router-app/public/Screenshot.png)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+![Скриншот](Screenshot.png)
+
 
 ## Features
 
